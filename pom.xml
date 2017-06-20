@@ -33,7 +33,7 @@
         <repository>
             <id>srinu</id>
             <name>Internal Releases</name>
-            <url>http://104.197.213.196:8081/repository/maven-releases/</url>
+            <url>http://104.154.95.213:8081/repository/maven-releases/</url>
         </repository>
         <snapshotRepository>
             <id>srinu</id>
